@@ -22,11 +22,11 @@ For each test case, output one line containing `Case #x: k r c`, where `x` is th
 
 ### Test set 1 (Visible Verdict)
 
-Time limit: 20 seconds per test set.
-Memory limit: 1GB.
-1 ≤ **T** ≤ 100.
-2 ≤ **N** ≤ 100.
-1 ≤ **M<sub>i,j</sub>** ≤ **N**, for all *i*, *j*.
+* Time limit: 20 seconds per test set.
+* Memory limit: 1GB.
+* 1 ≤ **T** ≤ 100.
+* 2 ≤ **N** ≤ 100.
+* 1 ≤ **M<sub>i,j</sub>** ≤ **N**, for all *i*, *j*.
 
 ## Sample
 

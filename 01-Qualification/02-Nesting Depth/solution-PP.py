@@ -3,8 +3,10 @@ def main():
     t = int(input())
     for i in range(1, t+1):
         s = input()
+        # Encase each number individually
         for j in range(1, 10):
             s = s.replace(str(j), '(' * j + str(j) + ')' * j)
+        # Minimize, remove all `)(`
         while True:
             s_next = s.replace(')(', '')
             if s_next == s:
