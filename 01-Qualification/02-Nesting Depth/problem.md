@@ -32,11 +32,11 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 ### Test set 1 (Visible Verdict)
 
-Each character in S is either 0 or 1.
+* Each character in **S** is either `0` or `1`.
 
 ### Test set 2 (Visible Verdict)
 
-Each character in S is a decimal digit between 0 and 9, inclusive.
+* Each character in **S** is a decimal digit between `0` and `9`, inclusive.
 
 ## Sample
 

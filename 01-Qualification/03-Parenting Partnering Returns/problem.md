@@ -29,11 +29,11 @@ If there are multiple solutions, you may output any one of them. (See *"What if 
 
 ### Test set 1 (Visible Verdict)
 
-2 ≤ **N** ≤ 10.
+* 2 ≤ **N** ≤ 10.
 
 ### Test set 2 (Visible Verdict)
 
-2 ≤ **N** ≤ 1000.
+* 2 ≤ **N** ≤ 1000.
 
 ## Sample
 
