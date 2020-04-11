@@ -22,7 +22,8 @@ It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
 
 | Round         | Pts | Rank | Note      |
 | :-----------: | :-: | :--: | :-------: |
-| Qualification |  75 | 1562 |           |
+| Qualification | 75  | 1562 |           |
+| 1A            | 42  | 3029 |           |
 
 ## Progress
 
@@ -32,7 +33,13 @@ It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
 * [x] Nesting Depth
 * [x] Parenting Partnering Returns
 * [x] ESAb ATAd
-* [ ]
+* [ ] Indicium
+
+### 1A
+
+* [x] Pattern Matching
+* [ ] Pascal Walk
+* [ ] Square Dance
 
 ## Contribution
 
