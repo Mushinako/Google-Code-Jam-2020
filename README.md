@@ -14,6 +14,8 @@ In each folder, the following files can be present:
   * `solution-P|F|U[+].py`: My best attempt with results marked in the name. E.g., the solution passed 1st but failed 2nd test set and did not have 3rd set checked would be named `solution-PFU.py`
   * Other files, if present, will be explained in `analysis.md`
 
+I usually do not read official analyses because I want to figure them out by myself. Therefore, it may take me weeks, months, even years to solve one problem.
+
 ## Why Python 3
 
 It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
