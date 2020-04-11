@@ -28,7 +28,7 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 * Time limit: 20 seconds per test set.
 * Memory limit: 1GB.
-* **N** ≤ **K** ≤ N2.
+* **N** ≤ **K** ≤ **N**<sup>2</sup>.
 
 ### Test set 1 (Visible Verdict)
 
